@@ -20,4 +20,4 @@ This program has not been debugged for memory issues, and will not be in the nea
 
 ## Acknowledgments
 
-* Thanks to my childhood and boredom at the beginning of Quarantine 2020;w
+* Thanks to my childhood and boredom at the beginning of Quarantine 2020
